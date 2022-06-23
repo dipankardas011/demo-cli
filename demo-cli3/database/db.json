@@ -1,0 +1,1 @@
+[{"username":"dipankar","balance":900,"transactions":[{"amount":1000,"string":"credit","narration":"Hello"},{"amount":100,"string":"debit","narration":"10101"}]},{"username":"dipanka1","balance":2000,"transactions":[{"amount":1000,"string":"credit","narration":"Hell1"},{"amount":1000,"string":"credit","narration":"Hell2"}]},{"username":"dipanka","balance":0,"transactions":[]}]
